@@ -1,1 +1,41 @@
-# SumofSumseries
+In a sum of sum series problem, each term is the cumulative sum of all the previous natural numbers up to that point, and the final answer is the sum of these cumulative sums.
+
+Example:
+Series → 
+1
++
+(
+1
++
+2
+)
++
+(
+1
++
+2
++
+3
+)
++
+(
+1
++
+2
++
+3
++
+4
+)
+1+(1+2)+(1+2+3)+(1+2+3+4)
+= 
+1
++
+3
++
+6
++
+10
+=
+20
+1+3+6+10=20.
